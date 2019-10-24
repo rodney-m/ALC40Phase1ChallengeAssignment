@@ -26,6 +26,6 @@ public class B extends AppCompatActivity {
                 handler.proceed();
             }
         });
-        webViewAbout.loadUrl("https://andela.com/alc/");
+        webViewAbout.loadUrl("https://hitwebtech.co.zw/");
     }
 }
